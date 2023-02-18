@@ -1,0 +1,10 @@
+{
+    "[c++]": {
+        "editor.formatOnSave": true,
+        "editor.tabSize": 2,
+        "files.insertFinalNewline": true
+    },
+    "C_Cpp.autoAddFileAssociations": false,
+    "C_Cpp.clang_format_fallbackStyle": "Mozilla",
+    "C_Cpp.clang_format_style": "Mozilla"
+}
